@@ -1,0 +1,128 @@
+run:
+150 Widgets received. Priced at $1.00 each
+130 Widgets received. Priced at $2.00 each
+
+
+
+145 Widgets sold 
+145 at $1.00 each 	Sales: $145.00
+			Total: $145.00
+			Total after Markup: $188.50
+
+
+
+50 Widgets received. Priced at $2.50 each
+
+
+
+75 Widgets sold 
+5 at $1.00 each 	Sales: $5.00
+70 at $2.00 each 	Sales: $140.00
+			Total: $145.00
+			Total after Markup: $188.50
+
+
+
+
+
+
+180 Widgets sold 
+60 at $2.00 each 	Sales: $120.00
+50 at $2.50 each 	Sales: $125.00
+Remainder of 70 Widgets not available
+			Total: $245.00
+			Total after Markup: $318.50
+
+
+
+50 Widgets received. Priced at $4.00 each
+30 Widgets received. Priced at $5.00 each
+40 Widgets received. Priced at $5.50 each
+
+Next two customer will receive discount of 30%
+
+
+
+Discount Applied:30.0%
+50 Widgets sold 
+50 at $4.00 each 	Sales: $200.00
+			Total(Promo Applied): $140.00
+			Total after Markup: $182.00
+
+
+
+
+
+
+Discount Applied:30.0%
+30 Widgets sold 
+30 at $5.00 each 	Sales: $150.00
+			Total(Promo Applied): $105.00
+			Total after Markup: $136.50
+
+
+
+50 Widgets received. Priced at $6.00 each
+265 Widgets received. Priced at $10.00 each
+
+
+
+60 Widgets sold 
+40 at $5.50 each 	Sales: $220.00
+20 at $6.00 each 	Sales: $120.00
+			Total: $340.00
+			Total after Markup: $442.00
+
+
+
+
+Next two customer will receive discount of 50%
+
+
+
+Discount Applied:50.0%
+100 Widgets sold 
+30 at $6.00 each 	Sales: $180.00
+70 at $10.00 each 	Sales: $700.00
+			Total(Promo Applied): $440.00
+			Total after Markup: $572.00
+
+
+
+
+
+
+Discount Applied:50.0%
+70 Widgets sold 
+70 at $10.00 each 	Sales: $700.00
+			Total(Promo Applied): $350.00
+			Total after Markup: $455.00
+
+
+
+
+
+
+175 Widgets sold 
+125 at $10.00 each 	Sales: $1250.00
+Remainder of 50 Widgets not available
+			Total: $1250.00
+			Total after Markup: $1625.00
+
+
+
+40 Widgets received. Priced at $14.00 each
+75 Widgets received. Priced at $15.00 each
+
+
+
+110 Widgets sold 
+40 at $14.00 each 	Sales: $560.00
+70 at $15.00 each 	Sales: $1050.00
+			Total: $1610.00
+			Total after Markup: $2093.00
+
+
+
+Stock left: 5 		 Original Purchase Price: $15.00
+BUILD SUCCESSFUL (total time: 0 seconds)
